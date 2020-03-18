@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(#e33c3c, #fcf400);
+}
+
+h1
+    font-size: 75px;
+    font-family: 'Righteous';
+}
+
+h2{
+    font-size; 50px;
+    text-family: 'Righteous';
+
+
+p{
+    font-size: 25px;
+}
+
+ol{
+    text-size: 25px;
+    font-weight: bold
+    font-style: italic;
+}
+
+#myImage{
+    width: 400px;
+    height: 550px;
+
